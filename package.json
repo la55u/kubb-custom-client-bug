@@ -1,0 +1,22 @@
+{
+  "name": "kubb-custom-client-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "kubb"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "1.4.0"
+  },
+  "devDependencies": {
+    "@kubb/cli": "1.5.4",
+    "@kubb/core": "1.5.4",
+    "@kubb/swagger": "1.5.4",
+    "@kubb/swagger-client": "1.5.4",
+    "@kubb/swagger-ts": "1.5.4",
+    "typescript": "5.1.6"
+  }
+}
